@@ -26,12 +26,23 @@
 
 <br>
 
-> ### Image Face recognition
-> To run the image recognition script
+> ### Image Face detection
+> To run the image detection script :
 > ```
 >   python img-face-recognition.py
 > ```
-> end you will see a good thing !!
+> ##### Description
+> The script will detect all frontal faces of the picture "tkt.jpg".
+
+<br>
+
+> ### Camera Face detection
+> To run th camera face detection script :
+> ```
+>   python live-face-recognition.py
+> ```
+> ##### Description
+> The detection work with your default camera or you can put a video in it to detect all faces.
 
 
 <hr>
