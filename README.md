@@ -1,2 +1,5 @@
-# flora-recognition
-AI Debute
+# Flora
+
+<hr>
+
+> The begining of building Flora an artificial inteligence with multiple skills.
