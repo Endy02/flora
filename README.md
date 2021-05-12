@@ -16,7 +16,17 @@
 
 ### Assets
 
-- opencv | <a href="https://docs.opencv.org/master/d2/de6/tutorial_py_setup_in_ubuntu.html">python3-opencv</a>
+> ##### Opencv
+> <a href="https://docs.opencv.org/master/d2/de6/tutorial_py_setup_in_ubuntu.html">python3-opencv</a>
+> 
+> Instalation (linux) :
+> ```
+>   sudo apt install python3-opencv
+> ```
+> (macos):
+> ```
+>   pip install opencv-python
+> ```
 
 <hr>
 
