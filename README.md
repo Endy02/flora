@@ -37,12 +37,12 @@
 <br>
 
 > ### Camera Face detection
-> To run th camera face detection script :
+> To run the camera face detection script :
 > ```
 >   python live-face-recognition.py
 > ```
 > ##### Description
-> The detection work with your default camera or you can put a video in it to detect all faces.
+> The detection work with your default camera or you can put a video in it to detect all frontal faces.
 
 
 <hr>
