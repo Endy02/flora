@@ -54,5 +54,14 @@
 > ##### Description
 > The detection work with your default camera or you can put a video in it to detect all frontal faces.
 
+<br>
+
+> ### Camera Smile detection
+> To run the camera face detection script :
+> ```
+>   python live-face-smile-recognition.py
+> ```
+> ##### Description
+> Smile Detector detect smile in the current frame of your current camera.
 
 <hr>
